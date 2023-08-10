@@ -80,3 +80,13 @@
   border-radius: 50%;
   background: #262c38;
 }
+
+.mouth {
+  width: 60px;
+  height: 80px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  left: calc(50% - 30px);
+  background: linear-gradient(#481f00, #b96a46);
+}
